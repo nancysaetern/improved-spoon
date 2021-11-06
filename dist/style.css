@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#manager,
+#engineer,
+#intern{
+    padding: 5px;
+    padding-bottom: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    min-width: 200px;
+    border-width: medium;
+}
+
+#cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    background-color: coral;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#role{
+    margin: 2px;
+    padding: 5px;
+    background-color: coral;
+    color: white;
+    border-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#item{
+    margin: 30px;
+    color: black;
+    border-color: white;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
