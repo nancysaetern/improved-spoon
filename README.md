@@ -22,3 +22,4 @@ https://watch.screencastify.com/v/9K8OUilxTVgVcvYBrKB6
 
 # Sample HTML
 
+<img width="1142" alt="Screen Shot 2021-11-06 at 11 37 11 AM" src="https://user-images.githubusercontent.com/83084773/140620556-76244d74-cc34-4b8b-a85b-55c1b2a1e56e.png">
