@@ -1,0 +1,23 @@
+{
+  "name": "improved-spoon",
+  "version": "1.0.0",
+  "description": "Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancysaetern/improved-spoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancysaetern/improved-spoon/issues"
+  },
+  "homepage": "https://github.com/nancysaetern/improved-spoon#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
